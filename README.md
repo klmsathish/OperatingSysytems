@@ -1,3 +1,3 @@
 # OperatingSysytems
-Basic of OS
+Basics of OS
 
