@@ -1,2 +1,3 @@
 # OperatingSysytems
-Basic of OSf
+Basic of OS
+
